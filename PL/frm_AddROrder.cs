@@ -104,7 +104,7 @@ namespace PRODUCTS_MANAGEMENT.PL
             }
             this.Close();
         }
-
+        /* */
         private void btnAddNew_Click(object sender, EventArgs e)
         {
             ClearBoxes();
